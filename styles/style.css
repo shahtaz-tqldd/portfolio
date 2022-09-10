@@ -1,0 +1,108 @@
+/* common section */
+body{
+    background-color: rgb(39, 43, 53);
+}
+
+.json-p{
+    white-space: pre;
+}
+
+/* color */
+.color-theme{
+    color: rgb(3, 199, 117);
+}
+.text-cyan{
+    color: rgb(18, 245, 150);
+}
+
+/* margin and scales */
+.mt-10{
+    margin-top: 150px;
+}
+
+/* top banner */
+.name-font{
+    font-size: 3.2rem;
+}
+.profile-image{
+    height: 500px;
+}
+
+/* what i can do for you */
+.img-card{
+    height: 200px;
+    object-fit: cover;
+}
+
+
+/* web development skills */
+.skill-icon{
+    height: 100px;
+}
+
+/* blog image */
+.blog-img{
+    height: 200px;
+    object-fit: cover;
+}
+
+@keyframes prog {
+    from{
+        width: 0%;
+    }
+    to{
+        width: 90%;
+    }
+}
+.pr{
+    width: 150px;
+    height: 10px;
+    background-color: #fff;
+}
+.html{
+    width: 90%;
+    background-color: rgb(8, 98, 189);
+    height: 10px;
+    animation-name: prog 3s;
+}
+.pr .css{
+    width: 90%;
+    background-color: rgb(8, 98, 189);
+    height: 10px;
+    animation-name: prog 3s;
+}
+.pr .javascript{
+    width: 60%;
+    background-color: rgb(8, 98, 189);
+    height: 10px;
+    animation-name: prog 3s;
+}
+.pr .bootstrap{
+    width: 85%;
+    background-color: rgb(8, 98, 189);
+    height: 10px;
+    animation-name: prog 3s;
+}
+
+
+/* footer */
+.footer-menu{
+    list-style: none;
+}
+.dec{
+    text-decoration: none;
+}
+
+/* device responsive */
+@media screen and (max-width:550px) {
+    .name-font{
+        font-size: 2.5rem;
+    }
+    .banner-text{
+        margin-top: 30px;
+        text-align: center;
+    }
+    footer{
+        text-align: center;
+    }
+}

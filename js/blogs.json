@@ -1,0 +1,13 @@
+[
+    {   "_id": "1",
+        "title": "Hello World",
+        "body": "The fate of the world may depend on some random things that you want to know. Oh come on I am just a fucking cunt. \n\nNo I am not Hey man there are lot of possibility that you may want to know about life.",
+        "image": "https://images.unsplash.com/photo-1658963951088-675e2d425f4f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+    },
+
+    {   "_id": "2",
+        "title": "Hello Mars",
+        "body": "hi my name is shahtaz but I am not a complete loser! hi my name is shahtaz but I am not a complete loser!",
+        "image": "https://images.unsplash.com/photo-1658953229664-e8d5ebd039ba?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MjJ8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+    }
+]
